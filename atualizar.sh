@@ -4,6 +4,8 @@
 #***************************************************************************
 #******************************Versão-1.0***********************************
 #***************************************************************************
+#Este programa faz a atualizaço para sistemas baseados no Debian e derivados
+#Como Ubuntu, Mint... etc.
 
 #Limpa a tela para instalação
 clear
